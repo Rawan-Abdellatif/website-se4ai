@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # CREATE SE4AI - Website
 
 This is the source code of [se4ai.org](https://se4ai.org) website.
