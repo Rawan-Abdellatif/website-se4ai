@@ -71,7 +71,7 @@ Future of AI Networking Event
         <Button isDarkMode={isDarkMode}>
      
          <div>  <a href="/blog">
-       
+         
             <Icon>
               <MdKeyboardDoubleArrowLeft />
             </Icon>

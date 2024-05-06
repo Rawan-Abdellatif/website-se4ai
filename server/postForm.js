@@ -169,7 +169,7 @@ try {
         title: OtherActivity3.title || "",
         details: OtherActivity3.details || "",
       },
-    };
+    }; 
     
     // Insert formattedFormData into the "FormData" collection
     const result = await db.collection("FormData").insertOne(newForm);

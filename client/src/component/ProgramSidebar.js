@@ -116,7 +116,7 @@ const ProgramSidebar = () => {
           isActive={activeLink === "/intro"}
           onMouseEnter={handleMouseEnter}
           onMouseLeave={handleMouseLeave}
-        >
+        > 
           <Link
             to="/intro"
             onClick={() => handleLinkClick("/intro")}

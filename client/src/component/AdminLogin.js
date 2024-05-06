@@ -29,7 +29,7 @@ function AdminLogin() {
       // If sign-in fails, display an error message
       alert("username or password are not cortect ");
     }
-  };
+  }; 
 
   return (
     <Form onSubmit={handleSubmit}>

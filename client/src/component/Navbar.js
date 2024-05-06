@@ -146,7 +146,7 @@ const Navbar = () => {
           </SwitchLabel>   </Nav>
         </RightNav>
 
-    </NavMenu>
+    </NavMenu> 
 </Grid>
 </Grid>
     </NavbarContainer>

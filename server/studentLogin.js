@@ -9,7 +9,7 @@ const options = {
   useNewUrlParser: true,
   useUnifiedTopology: true,
 };
-
+ 
 const studentLogin = async (req, res) => {
   const { username, password } = req.body;
   const client = new MongoClient(MONGO_URI,options);

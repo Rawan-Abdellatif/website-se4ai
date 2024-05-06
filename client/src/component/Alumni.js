@@ -409,7 +409,7 @@ a{
     text-decoration: underline;
   }
 
-}
+} 
 `
 const Image =styled.img`
 width:298px; 

@@ -23,7 +23,7 @@ import group4Image from "../component/2022-09-21-past/group4.jpg";
 import olivierImage from "../component/2022-09-21-past/olivier.jpg";
 import sumon_biswasImage from "../component/2022-09-21-past/sumon_biswas.jpg";
 import traineeSeptemberImage from "../component/upcoming/traineeSeptember.jpg"
-
+ 
 import { MdKeyboardDoubleArrowRight } from "react-icons/md";
 import Sidebar from "./Sidebar";
 import RightSidebar from "./RightSidebar";

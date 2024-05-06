@@ -22,7 +22,7 @@ const FM_SE_School_in_Mexico_City=()=>{
             <Main>
             <Subtitle  isDarkMode={isDarkMode}
         >
-              GEMinAI Mentoring Program Launch October 19, 2023 ​
+              GEMinAI Mentoring Program Launch October 19, 2023 ​ 
         </Subtitle>
         {/* <Img src={GEMinAIImage} alt=" GEMinAI.jpg" /> */}
 

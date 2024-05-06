@@ -84,7 +84,7 @@ text-align:center;
  max-width: 765px; 
  height:450px;
   /* height: 200px; */
-  padding-top: 20px;
+  padding-top: 20px; 
   padding-bottom:20px;
   @media screen and (max-width: 480px){height:200px;}
 `;

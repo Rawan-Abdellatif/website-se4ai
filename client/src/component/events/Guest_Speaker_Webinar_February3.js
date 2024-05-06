@@ -66,9 +66,9 @@ const Guest_Speaker_Webinar_February3=()=>{
           <a href="https://sumonbis.github.io/">https://sumonbis.github.io</a>
         </Details2>
         <Button isDarkMode={isDarkMode}>
-     
+      
          <div>  <a href="/blog">
-       
+        
             <Icon>
               <MdKeyboardDoubleArrowLeft />
             </Icon>

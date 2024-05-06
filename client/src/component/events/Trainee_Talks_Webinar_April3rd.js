@@ -4,7 +4,7 @@ import april32023Image from "../2022-09-21-past/april32023.jpg";
 import { DarkModeContext } from "../DarkModeContext";
 import { MdKeyboardDoubleArrowLeft } from "react-icons/md";
 import {Grid} from "@mui/material";
-
+ 
 const Trainee_Talks_Webinar_April3rd=()=>{
     const { isDarkMode } = useContext(DarkModeContext);
     useEffect(() => {

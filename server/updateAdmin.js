@@ -9,7 +9,7 @@
 //   useNewUrlParser: true,
 //   useUnifiedTopology: true,
 // });
-
+ 
 // const updateAdmin = async (req, res) => {
 //   const adminId = req.params.adminId;
 //   const updateData = req.body;

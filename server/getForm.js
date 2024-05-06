@@ -13,7 +13,7 @@ const getForm = async (req, res) => {
   const studentId = req.params.studentId;
   // const formId = req.params.formId;
 
-  try {
+  try { 
     const client = new MongoClient(MONGO_URI, options);
     await client.connect();
 

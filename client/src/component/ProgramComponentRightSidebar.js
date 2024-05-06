@@ -5,7 +5,7 @@ import { DarkModeContext } from "./DarkModeContext";
 const ProgramComponentRightSidebar = ({ activeLink, handleLinkClick }) => {
 console.log("handleLinkClick in Right",handleLinkClick)
   const { isDarkMode } = useContext(DarkModeContext);
-
+ 
   useEffect(() => {
     const handleScroll = () => {
       const sections = document.querySelectorAll("section");

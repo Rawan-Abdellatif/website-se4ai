@@ -14,8 +14,8 @@ const options = {
 
 const postAdmin = async (req, res) => {
   const client = new MongoClient(MONGO_URI, options);
-
-  try {
+ 
+  try { 
     await client.connect();
     const db = client.db("Se4ai");
     const collection = db.collection("Admins");

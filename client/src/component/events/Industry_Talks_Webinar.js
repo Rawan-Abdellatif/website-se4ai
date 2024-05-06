@@ -21,7 +21,7 @@ const Industry_Talks_Webinar=()=>{
   >     <Grid item xs={12} md={12} lg={12} xl={12}>
             <Main>
             <Subtitle  isDarkMode={isDarkMode}
-        >
+        > 
 Industry Talks Webinar - April 25, 2023​
    
         </Subtitle>

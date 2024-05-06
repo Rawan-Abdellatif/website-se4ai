@@ -57,7 +57,7 @@ function StudentLogin() {
         } else {
           throw new Error("Username or password is incorrect.");
         }
-      }
+      } 
     } catch (error) {
       console.error("Login error:", error.message);
       alert("An error occurred during login. Please try again.");

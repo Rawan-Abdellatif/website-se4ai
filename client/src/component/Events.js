@@ -305,7 +305,7 @@ AI Institute. GEMinAI supports Concordia
           networks is expected to reach USD 200 billion by 2027? What are some
           of the current challenges Ericsson, a global leader... <Button isDarkMode={isDarkMode}><Link to="/blog/Industry_Talks_Webinar_November18" className="read-more-link"> Read More
       </Link></Button></h5> </Event>
-
+ 
 </PastEvent>
 {/*10th Event*/}
 <PastEvent isDarkMode={isDarkMode}>

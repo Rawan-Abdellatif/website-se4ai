@@ -18,7 +18,7 @@ const AdminProfile = () => {
   const [errorForms, setErrorForms] = useState("");
   const { adminId } = useParams();
   const [expandedStudents, setExpandedStudents] = useState({});
-
+ 
   const toggleExpand = (studentId) => {
     setExpandedStudents((prevExpanded) => ({
       ...prevExpanded,

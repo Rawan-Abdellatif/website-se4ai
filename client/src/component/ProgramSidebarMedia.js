@@ -125,7 +125,7 @@ const ProgramSidebarMedia = () => {
           isDarkMode={isDarkMode}
           selected={selectedLink === "/GEMinAI"}
           isActive={activeLink === "/GEMinAI"}
-     
+      
         >
           <Link
             to="/GEMinAI"

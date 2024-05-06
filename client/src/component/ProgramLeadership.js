@@ -1178,7 +1178,7 @@ font-size:1.25rem;
 font-weight:700px;
 margin-bottom :0;
 } 
-span:first-child {
+span:first-child { 
   margin-left:7px; 
   display: inline-block;
   background-color:#bb5a7d;

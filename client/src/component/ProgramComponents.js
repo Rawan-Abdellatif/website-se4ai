@@ -8,7 +8,7 @@ import { MdKeyboardDoubleArrowLeft } from "react-icons/md";
 import ProgramComponentRightSidebar from "./ProgramComponentRightSidebar";
 import ProgramComponentDropDownMedia from "./ProgramComponentDropDownMedia";
 import { Grid } from "@mui/material";
-const ProgramComponents = () => {
+const ProgramComponents = () => { 
   const { isDarkMode } = useContext(DarkModeContext);
   const [activeLink, setActiveLink] = useState(null);
   const [isDropdownOpen, setIsDropdownOpen] = useState(false);

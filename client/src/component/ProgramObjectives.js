@@ -5,7 +5,7 @@ import ProgramSidebar from "./ProgramSidebar";
 import { MdKeyboardDoubleArrowRight } from "react-icons/md";
 import { MdKeyboardDoubleArrowLeft } from "react-icons/md";
 import {Grid} from "@mui/material"
-
+ 
 const ProgramObjectives = () => {
   const { isDarkMode } = useContext(DarkModeContext);
 

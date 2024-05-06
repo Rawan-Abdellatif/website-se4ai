@@ -16,7 +16,7 @@ const StudentProfile = ({setFormId}) => {
   const [loadingForm, setLoadingForm] = useState(true);
   const [errorForm, setErrorForm] = useState("");
 
-  useEffect(() => {
+  useEffect(() => { 
     // Fetch Student Profile
     fetch(`/api/students/${studentId}`)
       .then((response) => response.json())

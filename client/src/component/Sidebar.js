@@ -45,7 +45,7 @@ const Sidebar = () => {
       window.removeEventListener("scroll", scrollHandler);
     };
   }, []);
-
+ 
   return (
     <SidebarContainer
       isDarkMode={isDarkMode}

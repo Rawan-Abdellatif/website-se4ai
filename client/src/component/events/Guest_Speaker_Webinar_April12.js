@@ -65,7 +65,7 @@ const Guest_Speaker_Webinar_April12=()=>{
      
          <div>  <a href="/blog">
        
-            <Icon>
+            <Icon> 
               <MdKeyboardDoubleArrowLeft />
             </Icon>
            <div> Past Events</div>

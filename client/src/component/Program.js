@@ -142,7 +142,7 @@ margin-top:-5px;
   /* width: 1700px; */
   line-height: 1.7em;
   font-size: 16px; 
-margin-bottom:15px;
+margin-bottom:15px; 
 `;
 
 const Details2 = styled.div`

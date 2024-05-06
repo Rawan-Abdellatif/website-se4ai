@@ -152,7 +152,7 @@ const HomePageSidebar = () => {
           isActive={activeLink === "/GEMinAI"}
           onClick={() => handleLinkClick("/GEMinAI")}
           isDarkMode={isDarkMode}
-          to="/GEMinAI"
+          to="/GEMinAI" 
         >
          GEMinAI
         </SidebarLink>

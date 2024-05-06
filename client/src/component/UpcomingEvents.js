@@ -10,7 +10,7 @@ const UpcomingEvents = () => {
   const { isDarkMode } = useContext(DarkModeContext);
   const [activeLink, setActiveLink] = useState(null);
 
-
+ 
   useEffect(() => {
     const handleScroll = () => {
       const subtitles = document.querySelectorAll(".subtitle");

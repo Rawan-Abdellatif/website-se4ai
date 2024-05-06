@@ -10,7 +10,7 @@ const Trainee_Talks_Webinar_December13=()=>{
     useEffect(() => {
       // Scroll to the top of the page when the component mounts
       window.scrollTo(0, 0);
-    }, []);
+    }, []); 
     return(
         <Container isDarkMode={isDarkMode}>
            <Grid

@@ -22,7 +22,7 @@ import IVADO from "./png/IVADO.png";
 import { Grid } from "@mui/material";
 const Partners = () => {
   const { isDarkMode } = useContext(DarkModeContext);
-
+ 
   return (
     <Container>
          <Grid

@@ -172,8 +172,8 @@ const fadeInAnimation = keyframes`
   100% {
     opacity: 1;
   }
-`;
-
+`; 
+ 
 const ButtonLink = styled(Link)`
   background-color: ${(props) => (props.isDarkMode ? "#BB5A7D" : "#BB5A7D")};
   color: ${(props) => (props.isDarkMode ? "black" : "white")};

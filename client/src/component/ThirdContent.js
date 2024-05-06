@@ -15,7 +15,7 @@ import Graz from "./png/Graz.png";
 import IBM from "./png/IBM.png";
 import NSER from "./png/NSERC_RGB.png";
 import OBVIA from "./png/OBVIA.png";
-import Radio from "./png/Radio-Canada.png";
+import Radio from "./png/Radio-Canada.png"; 
 import TD from "./png/TD.png";
 import Vercel from "./png/Vercel.png";
 import MAIEI from "./png/MAIEI.png";

@@ -7,7 +7,7 @@ const MONGO_URI = process.env.MONGO_URI;
 const options = {
   useNewUrlParser: true,
   useUnifiedTopology: true,
-};
+}; 
 
 const getAdmins = async (req, res) => {
   const client = new MongoClient(MONGO_URI, options);

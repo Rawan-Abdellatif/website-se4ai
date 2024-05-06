@@ -14,7 +14,7 @@ const adminLogin = async (req, res) => {
   const { username, password } = req.body;
   const client = new MongoClient(MONGO_URI,options);
 
-  try {
+  try { 
     // Connect to MongoDB using MongoClient
     await client.connect();
   const db = client.db("se4ai");

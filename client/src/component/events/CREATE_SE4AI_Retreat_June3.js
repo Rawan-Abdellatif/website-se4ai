@@ -25,7 +25,7 @@ const CREATE_SE4AI_Retreat_June3=()=>{
     style={{ flex: 1, padding: "15px" }}
     
   >     <Grid item xs={12} md={12} lg={12} xl={12}>
-            <Main>
+            <Main> 
             <Subtitle  isDarkMode={isDarkMode}
         >
               CREATE SE4AI Retreat - June 3, 2022​

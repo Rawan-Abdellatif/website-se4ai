@@ -53,7 +53,7 @@ useEffect(() => {
   onClick={() => handleLinkClick("trainee-talks-webinar---september-25-2023")}
 >
   Trainee Talks Webinar - September 25, 2023
-</SidebarLink>
+</SidebarLink> 
 
 
         <SidebarLink

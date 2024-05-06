@@ -16,7 +16,7 @@ const Team = () => {
 
   return (
     <Container isDarkMode={isDarkMode}>       
-  
+   
 
 
          <Grid

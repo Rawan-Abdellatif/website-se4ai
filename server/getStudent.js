@@ -14,7 +14,7 @@ const getStudent = async (req, res) => {
   const studentId = req.params.studentId;
   const client = new MongoClient(MONGO_URI, options);
   console.log(studentId);
-  try {
+  try { 
     await client.connect();
     const db = client.db("se4ai");
     const Student = await db.collection("Students").findOne({ _id: studentId });

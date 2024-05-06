@@ -258,7 +258,7 @@ h3{
   font-weight:700px;
   margin-bottom :0;
 }   
-span{
+span{ 
   /* margin-left:7px; */
   display: inline-block;
   background-color:#bb5a7d;

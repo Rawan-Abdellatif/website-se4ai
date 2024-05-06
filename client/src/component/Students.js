@@ -1696,4 +1696,4 @@ const Main = styled.div`
   margin-bottom:80px;
 
   color: ${(props) => (props.isDarkMode ? "white" : "#484848")};
-`;
+`; 

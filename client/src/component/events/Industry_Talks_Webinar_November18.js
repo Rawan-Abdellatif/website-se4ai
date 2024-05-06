@@ -112,7 +112,7 @@ align-items:center;
     margin-left: calc(27% - 150px); 
     /* margin-bottom:calc(13% - 150px); */
 
-  }`;
+  }`; 
 
 
 

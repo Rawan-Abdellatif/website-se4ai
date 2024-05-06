@@ -18,7 +18,7 @@ const Trainee_Talks_Webinar_February27=()=>{
     justifyContent="center"
     alignItems="center"
     style={{ flex: 1, padding: "15px" }}
-    
+     
   >     <Grid item xs={12} md={12} lg={12} xl={12}>
 
             <Main>

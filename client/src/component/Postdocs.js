@@ -367,12 +367,12 @@ h3{
   margin-bottom :0;
 }    
 padding-bottom: 0;
-`
+` 
 const CardFooter=styled.div` 
 font-weight:700;
   margin-top: auto;
   padding:0.25rem 1rem;
-ul{
+ul{ 
   /* border:2px solid green; */
   margin-left:-0.75rem;
   padding-left:0.15rem;

@@ -64,7 +64,7 @@ app.get("/api/students/:studentId", getStudent);
 //////// Add new Student 
 // app.post("/api/students", upload.single("img"), postStudent);
 app.post("/api/students/login",studentLogin);
-////// get Forms 
+////// get Forms  
 app.get("/api/forms",getForms);
 ///////// get Form 
 app.get("/api/forms/:studentId", getForm);

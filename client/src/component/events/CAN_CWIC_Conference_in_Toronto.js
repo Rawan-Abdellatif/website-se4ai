@@ -147,7 +147,7 @@ a {
   flex-direction: row;
   max-width:400px;
   margin-left:0;
-  padding-left:0;
+  padding-left:0; 
   /* border:5px solid yellow; */
   /* padding-right:200px; */
   text-decoration: none;

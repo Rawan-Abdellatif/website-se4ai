@@ -5,10 +5,10 @@ const { MongoClient } = require("mongodb");
 require("dotenv").config();
 
 const MONGO_URI = process.env.MONGO_URI;
-const options = {
+const options = { 
   useNewUrlParser: true,
   useUnifiedTopology: true,
-};
+}; 
 
 const getAdmin = async (req, res) => {
   const adminId = req.params.adminId;

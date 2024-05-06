@@ -7,7 +7,7 @@ const client = new MongoClient(MONGO_URI);
 
 
 
-
+ 
 const deleteAdmin = async (req, res) => {
   const adminId = req.params.adminId;
 

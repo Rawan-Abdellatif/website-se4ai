@@ -50,7 +50,7 @@ const postStudent = async (req, res) => {
         studentId: newStudent._id,
       },
     });
-
+ 
     uploadStream.end(imageBuffer);
 
     uploadStream.on("finish", async () => {

@@ -90,7 +90,7 @@ const Title = styled.h1`
 flex-wrap:wrap;
   color: ${(props) => (props.isDarkMode ? "white" : "black")};
 `;
-
+ 
 const EmailText = styled.p`
   font-size: 16px;
 margin-top:2px;

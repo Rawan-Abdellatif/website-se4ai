@@ -12,7 +12,7 @@ import { MdKeyboardDoubleArrowLeft } from "react-icons/md";
 
 const GEMinAIProgram = () => {
   const { isDarkMode } = useContext(DarkModeContext);
-
+ 
   return (
 <Container isDarkMode={isDarkMode}>
       <ProgramSidebar />

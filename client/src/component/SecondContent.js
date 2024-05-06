@@ -232,4 +232,4 @@ width:357px;/* margin-right:40px; */
     flex-direction: column; /* Display items in a column on mobile */
     align-items: center;
 margin-left:0px;  }
-`;
+`; 

@@ -7,7 +7,7 @@ const UpcomingRightSidebar = ({ activeLink = "", handleLinkClick }) => {
   const [isFixed, setIsFixed] = useState(true);
 console.log("activeLink in RightSidebar",activeLink)
 
-
+ 
 useEffect(() => {
     const handleScroll = () => {
       const sections = document.querySelectorAll("section");

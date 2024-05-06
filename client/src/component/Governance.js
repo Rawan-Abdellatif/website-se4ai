@@ -75,3 +75,4 @@ const Subtitle = styled.div`
 const RedText = styled.span`
   color: #bb5a7d;
 `;
+ 

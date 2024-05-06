@@ -26,7 +26,7 @@ export const DarkModeProvider = ({ children }) => {
       element.style.color = color;
     });
   };
-
+ 
   // Create an object to provide to the context
   const contextValue = {
     isDarkMode,

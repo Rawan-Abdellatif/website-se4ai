@@ -149,7 +149,7 @@ useEffect(() => {
           <Route path="/login" element={<StudentLogin />} />
           <Route path="/login/:studentId" element={<StudentProfile />} />
 
-
+ 
           <Route path="/blog/Trainee_Talks_Webinar_sptemper25" element={<Trainee_Talks_Webinar />} />
            <Route path="/blog/Industry_Talks_Webinar_April25" element={<Industry_Talks_Webinar />} />
            <Route path="/blog/Trainee_Talks_Webinar_April3rd" element={<Trainee_Talks_Webinar_April3rd />} />

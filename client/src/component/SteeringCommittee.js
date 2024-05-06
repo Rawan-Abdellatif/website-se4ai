@@ -6,7 +6,7 @@ import { FaArrowUpRightFromSquare } from "react-icons/fa6";
 import { AiFillLinkedin } from "react-icons/ai";
 import { BsTwitter } from "react-icons/bs";
 import { MdEmail } from "react-icons/md";
-
+ 
 import DrLimingZhuImage from "../component/member/Dr. Liming Zhu.jpg";
 import DrStefanWagnerImage from "../component/member/Dr. Stefan Wagner.jpg";
 import MrDerekTruongImage from "../component/member/Mr. Derek Truong.jpg";

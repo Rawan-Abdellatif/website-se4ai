@@ -22,7 +22,7 @@ const Intellectual_Property_Seminar=()=>{
       >     <Grid item xs={12} md={12} lg={12} xl={12}>
             <Main isDarkMode={isDarkMode}>
             <Subtitle  isDarkMode={isDarkMode}
-        >
+        > 
              Intellectual Property: How to Protect your Code
         </Subtitle>
         <Img src={Intllectual_PropertyImage} alt=" Intllectual_Property.jpg" />

@@ -114,7 +114,7 @@ color:red ;
 /* margin-top: -65px;  */
 background-color: ${(props) => (props.isDarkMode ? "" : "white")};
 margin-left:5px;
-font-weight:500; 
+font-weight:500;  
 align-items:center;
 z-index:-2;
 /* margin-top:65px; */
