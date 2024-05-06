@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CREATE SE4AI - Website
 
 This is the source code of [se4ai.org](https://se4ai.org) website.
@@ -25,3 +26,7 @@ This command starts a local development server and opens up a browser window. Mo
 This website created by: [Suhaib Mujahid](https://github.com/suhaibmujahid)
 
 [![Powerd by Vercel](static/img/powered-by-vercel.svg)](https://vercel.com/?utm_source=se4ai&utm_campaign=oss)
+=======
+# website-se4ai
+website se4ai
+>>>>>>> e58b8c6e35a81aa8eb7fc10c43e748e6df89a60e
